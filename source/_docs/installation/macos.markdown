@@ -19,4 +19,7 @@ Open a terminal and install Home Assistant.
 $ pip3 install homeassistant
 ```
 
-Check this [video](https://www.youtube.com/watch?v=hej6ipN86ls) for the installation on macOS.
+Note: You may need to restart your Mac in order to start Home Automation the first time. 
+Continue setup by following the additional steps on https://home-assistant.io/docs/installation/.
+
+Check this [video](https://www.youtube.com/watch?v=hej6ipN86ls) for the installation of Python and Home Automation on OS X..
